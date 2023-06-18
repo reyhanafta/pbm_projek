@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054357163315",
+    "project_id": "busin-e235a",
+    "storage_bucket": "busin-e235a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054357163315:android:0de1d3f3f21fa328598246",
+        "android_client_info": {
+          "package_name": "com.example.index"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054357163315-nd8lsetu57lnir8nehabei7dgc8d3llo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmfvTKRIEAWfRsjz5hKyR3EvfA0Ljrc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054357163315-nd8lsetu57lnir8nehabei7dgc8d3llo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
